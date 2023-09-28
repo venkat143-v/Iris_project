@@ -10,7 +10,7 @@ Created on Tue Mar 14 20:52:33 2023
 import pandas as pd
 import numpy as np
 
-data=pd.read_csv(r"C:\Users\Lenovo\Desktop\python\DriveReady\ML\iris.csv")
+data=pd.read_csv(r"path\iris.csv")
 
 data.shape
 data.size
